@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大洋游侠</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-22T04:12:14.406Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>wcm</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大洋游侠</title>
+    <link href="http://example.com/2020/10/22/%E5%A4%A7%E6%B4%8B%E6%B8%B8%E4%BE%A0/"/>
+    <id>http://example.com/2020/10/22/%E5%A4%A7%E6%B4%8B%E6%B8%B8%E4%BE%A0/</id>
+    <published>2020-10-22T04:12:14.000Z</published>
+    <updated>2020-10-22T04:12:14.406Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://example.com/2020/10/21/article-title/"/>
+    <id>http://example.com/2020/10/21/article-title/</id>
+    <published>2020-10-21T09:14:19.000Z</published>
+    <updated>2020-10-22T04:10:54.976Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/10/21/hello-world/"/>
+    <id>http://example.com/2020/10/21/hello-world/</id>
+    <published>2020-10-21T09:03:11.231Z</published>
+    <updated>2020-10-22T04:13:29.137Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你好&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
